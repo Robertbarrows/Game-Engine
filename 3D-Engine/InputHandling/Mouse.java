@@ -1,4 +1,4 @@
-package com.base.engine.input.handler;
+package com.base.engine.inputhandling;
 
 import org.lwjgl.glfw.GLFWCursorPosCallback;
 
